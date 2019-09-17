@@ -1,7 +1,7 @@
 class Person
-  def initialize
-    @name = name
-  end
+  # def initialize
+  #   @name = name
+  # end
   
   def name
     @name
@@ -11,9 +11,9 @@ class Person
     @name = new_name
   end
   
-  def initialize
-    @job = job
-  end
+  # def initialize
+  #   @job = job
+  # end
   
   def job
     @job
